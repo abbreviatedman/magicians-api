@@ -1,0 +1,19 @@
+* The Magicians API - An Executable Memoir
+
+** Potential Chapters
+*** A Story-Program About Story-Programs
+**** A 55-Word Story
+*** The Shape Of Data
+**** Data and Its Bias
+**** The Shape Of Our Data
+***** In The Form Of A Relevant Magicians Quote
+*** The Winding Path To The API
+*** The Most Inefficient Efficiency Expert
+**** Emacs And Vim
+***** A Way Of Life
+***** Making Editing Fun
+***** Text Editor Learning Curves
+**** 55-Word Stories
+**** XKCD Comic about efficiency
+***** the one about efficient walking routes
+***** the graph about time saved
