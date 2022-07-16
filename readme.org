@@ -1,5 +1,4 @@
 * The Magicians API - An Executable Memoir
-
 ** Potential Chapters
 *** A Story-Program About Story-Programs
 **** A 55-Word Story
@@ -17,3 +16,11 @@
 **** XKCD Comic about efficiency
 ***** the one about efficient walking routes
 ***** the graph about time saved
+** The Shape Of It
+*** Gitbook?
+*** Git Hosting Platform
+**** Directory Structure With readmes for viewing
+**** What Platform?
+***** GitHub for maximum views
+***** GitLab as Intermediate Option
+***** Codeberg to be really out there
